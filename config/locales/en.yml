@@ -1870,6 +1870,7 @@ en:
       image: Image
       alt: Alt text
       url: URL
+      codeblock: Code block
     richtext_field:
       edit: Edit
       preview: Preview
@@ -2305,6 +2306,7 @@ en:
           cycleway_national: "National cycleway"
           cycleway_regional: "Regional cycleway"
           cycleway_local: "Local cycleway"
+          cycleway_mtb: "Mountain bike route"
           footway: "Footway"
           rail: "Railway"
           train: "Train"
@@ -2320,6 +2322,8 @@ en:
           taxiway: "Taxiway"
           apron_only: "Airport apron"
           admin: "Administrative boundary"
+          capital: "Capital"
+          city: "City"
           orchard_only: "Orchard"
           vineyard: "Vineyard"
           forest_only: "Forest"
@@ -3004,6 +3008,7 @@ en:
       reactivate: Reactivate
       comment_and_resolve: Comment & Resolve
       comment: Comment
+      log_in_to_comment: "Log in to comment on this note"
       report_link_html: "If this note contains sensitive information that needs to be removed, you can %{link}."
       other_problems_resolve: "For all other problems with the note, please resolve it yourself with a comment."
       other_problems_resolved: "For all other problems, resolving is sufficient."
